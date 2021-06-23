@@ -1,0 +1,21 @@
+Objective : Release of a new product
+
+Sensitive points :
+- software reactivity
+- ergonomics of the application
+- data follow-up after use of the software
+Current processes and tools :
+- weekly meeting on the progress of the project
+- deadlines fixed for the release of the first version, the tests and the final version
+- code editors, git
+
+
+Identified gaps: unclear planning, testing only at the end of the first release and not continuously
+
+Improvements
+
+1. Break the project into several independent functionalities
+2. Add continuous testing during the development of each feature
+3. Customer testing and feedback to continue the continuous improvement of the product
+4. Continuous monitoring of application performance and server load
+5. Adjustment of monitoring alerts
