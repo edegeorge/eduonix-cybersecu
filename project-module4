@@ -1,0 +1,26 @@
+Part one:
+Considering what you ve learned through the course, how would you describe the process of User Authentication on a web site by having three different factors of authentication?
+
+On a web site, the three different factors of authentication can be password, pin authentication (with an app like Google authenticator) and fingerprint authentication.
+First the user must enter password, which is the knowledge factor, then he must enter pin given by his authenticator app, which is the ownership factor, last he should put his finger on the fingerprint reader, which is the inherence factor.
+
+
+Part two:
+Describe, at least four, attack vectors on a company that produces shoes, both Physical and Digital.
+
+A first attack vector can be the form on their website, form for identifying the customer by instance.
+A second attack vector can be emails of the company, by phishing or viruses in attachement.
+A third attack vector can be phones or laptop of the company, if a salary has been stolen.
+A fourth attack vector can be the servers, if they are not enough protected, someone can enter in the company datacenter, someone can enter the company's datacenter, posing as a technician, and break the servers.
+
+
+Part three:
+Considering the wireless security, describe in your own words what Krack Attack is. (hard one)
+
+Krack Attack is a n attack using a weakness in the standard Wi-Fi, thus involving all platforms. The attacker must reset several times the third step of the protocol WPA2 to discover the encryption key and so listening to all traffic.
+
+
+Part four:
+Considering what you’ve learned through the course, describe what machines should AntiVirus and Firewalls be installed in a network where you have 10 servers and 10 client machines, where all of them have internet and process information provided by outsiders of the company.
+
+Antivirus and Firewalls must be installed on all devices, servers and clients, but a Firewall must also be installed in front of Internet connection to protect all the company, and others Firewalls can be installed to separate clients from servers, and web servers from database servers, in order to cut the path to any attacker.
