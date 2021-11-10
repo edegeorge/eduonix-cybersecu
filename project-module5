@@ -1,0 +1,3 @@
+After installation of Metasploitable machine, I do a netdiscover on Kali to find IP address.
+
+Then I launch a scan nmap to see which port are listenning and with Nessus I see which vulnerabilities are available. Finally, I use Metasploit to attack the machine.
